@@ -1,4 +1,4 @@
-# flickr-image-crawler
+# simple flickr image crawler
 
 ### Usage
 ```python
